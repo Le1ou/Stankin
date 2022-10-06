@@ -168,7 +168,7 @@ html, body {
 .main-block__title {
     font-size: 58px;
     line-height: calc(80 / 58);
-    font-weight: 800;
+    font-weight: 810;
     letter-spacing: 0.2px;
 }
 @media (max-width: 479px) {
